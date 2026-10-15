@@ -1,0 +1,60 @@
+/* CSS Styles */
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    margin: 0;
+    background-image: url("Imgs/background.gif");
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+    image-border: 5px solid rgb(243, 52, 141);
+    border: dashed;
+    border-color: peachpuff;
+    border-width: 10px;
+    border-radius: 15px;
+    border-shadow: 5px 5px 10px rgb(7, 61, 22);
+}
+
+h1 {
+    color:rgb(243, 52, 141);
+    background-color: rgb(22, 126, 22);
+    opacity: 0.8;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgb(7, 61, 22);
+    border-radius: 15px;
+    border:dotted;
+    border-color: rgb(187, 111, 227);
+    border-width: 10px;
+    shrink-to-fit:fit-content;
+
+}
+    
+h2 {
+    text-font: bold;
+    text-shadow: 2px 2px 4px rgb(7, 61, 22);    
+    color:rgb(14, 90, 35);
+    text-align: center;
+}
+h3 {
+    color:rgb(66, 52, 15);
+    background-color: rgb(108, 156, 108);
+}
+h4 {
+    color:rgb(30, 119, 16);
+}
+p {
+    text-align: justify;
+    color:rgb(31, 73, 34);
+    text-indent: 50px;
+    font-weight: bold;
+}
+img {
+    /* to smoothen the edges of the image */
+    border-radius: 15px;
+    border-style: ridge;
+    border-width: 25px;
+    border-color: rgb(84, 23, 51);
+}
+
+
+
